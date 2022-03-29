@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Glibuzz-React/static/css/main.86e6c98f.css",
+    "main.js": "/Glibuzz-React/static/js/main.5f5ad1b4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Glibuzz-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/porfolio.jpg": "/Glibuzz-React/static/media/porfolio.08a469ffeba96185eb2a.jpg",
+    "static/media/about.jpg": "/Glibuzz-React/static/media/about.446f0c987bb0484dcaa7.jpg",
+    "static/media/service.png": "/Glibuzz-React/static/media/service.892e535cfb6877d446cd.png",
+    "static/media/contact.jpg": "/Glibuzz-React/static/media/contact.6c1b4ecc057d5847ec34.jpg",
+    "static/media/blog.jpg": "/Glibuzz-React/static/media/blog.ba653b0d33ec68270654.jpg",
+    "static/media/about1.png": "/Glibuzz-React/static/media/about1.f132e55613dfb4b63e19.png",
+    "static/media/home.png": "/Glibuzz-React/static/media/home.40ae20a98d9183f8cc22.png",
+    "static/media/portfoio6.jpg": "/Glibuzz-React/static/media/portfoio6.09d1b4b59a67b969dd5b.jpg",
+    "static/media/portfoio5.jpg": "/Glibuzz-React/static/media/portfoio5.25b1b6193d8c6a7e4e7b.jpg",
+    "static/media/portfoio3.jpg": "/Glibuzz-React/static/media/portfoio3.960a83ce83643006c135.jpg",
+    "static/media/portfoio2.jpg": "/Glibuzz-React/static/media/portfoio2.783ae3a12abc4de058c8.jpg",
+    "static/media/portfoio4.jpg": "/Glibuzz-React/static/media/portfoio4.0f2ecdcda4e60dee5d2e.jpg",
+    "static/media/blog2.jpg": "/Glibuzz-React/static/media/blog2.62e792fb8606c4f620bd.jpg",
+    "static/media/blog3.jpg": "/Glibuzz-React/static/media/blog3.896054f6a1884c715b37.jpg",
+    "static/media/owl.jpg": "/Glibuzz-React/static/media/owl.82f9e635ec74b7f14bdd.jpg",
+    "static/media/portfoio1.jpg": "/Glibuzz-React/static/media/portfoio1.6001708c5910bc3a2c3b.jpg",
+    "static/media/carusal.jpg": "/Glibuzz-React/static/media/carusal.f283a838b31a65213194.jpg",
+    "static/media/blog1.jpg": "/Glibuzz-React/static/media/blog1.9db55ebd9e0856f341f8.jpg",
+    "static/media/logo.svg": "/Glibuzz-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Glibuzz-React/index.html",
+    "main.86e6c98f.css.map": "/Glibuzz-React/static/css/main.86e6c98f.css.map",
+    "main.5f5ad1b4.js.map": "/Glibuzz-React/static/js/main.5f5ad1b4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Glibuzz-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e6c98f.css",
+    "static/js/main.5f5ad1b4.js"
+  ]
+}
